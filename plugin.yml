@@ -1,0 +1,6 @@
+main: com.chillm3r.multiplayerjukebox.Main
+name: MultiplayerJukebox
+version: 1.0 
+author: chillm3r
+description: Multiplayer Jukebox
+commands:
