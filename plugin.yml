@@ -3,4 +3,6 @@ name: MultiplayerJukebox
 version: 1.0 
 author: chillm3r
 description: Multiplayer Jukebox
+
 commands:
+   jb:
